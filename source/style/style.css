@@ -300,11 +300,13 @@ header nav ul li a:hover {
   font-size: 18px;
   line-height: 28px;
   padding-bottom: 20px;
+  font-family: var(--font-family-sans-serif);
 }
 
 .bio {
   display: flex;
   gap: 20px;
+  font-family: var(--font-family-sans-serif);
 }
 
 .bio div p {
@@ -829,6 +831,7 @@ footer {
   text-align: center;
   padding: 90px 40px 90px;
   gap: 20px;
+  font-family: var(--font-family-sans-serif);
 }
 
 footer a i {
